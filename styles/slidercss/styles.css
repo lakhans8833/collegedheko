@@ -36,7 +36,9 @@ a {
   width: 100vw;
   overflow-x: hidden;
   overflow-y: hidden;
+  margin-bottom: 50px;
 }
+
 
 .college_section h1 {
   font-size: 2rem;
